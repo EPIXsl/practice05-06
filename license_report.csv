@@ -1,0 +1,250 @@
+﻿name,version,license_match,old_license,new_license,license_changed,change_kind,old_link,new_link,link_changed,changed_fields,notes
+aiofiles,25.1.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/Tinche/aiofiles/blob/v25.1.0/LICENSE,https://github.com/Tinche/aiofiles/blob/v25.1.0/LICENSE,False,,
+aiohappyeyeballs,2.6.2,True,PSF-2.0,PSF-2.0,False,,https://github.com/aio-libs/aiohappyeyeballs/blob/v2.6.2/LICENSE,https://github.com/aio-libs/aiohappyeyeballs/blob/v2.6.2/LICENSE,False,,
+aiohttp,3.13.5,True,Apache License 2.0,"Apache-2.0, MIT",True,partial,https://github.com/aio-libs/aiohttp/blob/v3.13.5/LICENSE.txt,https://github.com/aio-libs/aiohttp/blob/v3.13.5/LICENSE.txt,False,license,"license-changed[partial]: Apache License 2.0 -> Apache-2.0, MIT"
+aioitertools,0.13.0,True,MIT,MIT,False,,https://github.com/omnilib/aioitertools/blob/v0.13.0/LICENSE,https://github.com/omnilib/aioitertools/blob/v0.13.0/LICENSE,False,,
+aiosignal,1.4.0,True,Apache License 2.0,Apache License 2.0,False,,https://github.com/aio-libs/aiosignal/blob/v1.4.0/LICENSE,https://github.com/aio-libs/aiosignal/blob/v1.4.0/LICENSE,False,,
+alembic,1.18.4,True,MIT License,MIT License,False,,https://github.com/sqlalchemy/alembic/blob/rel_1_18_4/LICENSE,https://github.com/sqlalchemy/alembic/blob/rel_1_18_4/LICENSE,False,,
+annotated-doc,0.0.4,True,MIT,MIT,False,,https://github.com/fastapi/annotated-doc/blob/0.0.4/LICENSE,https://github.com/fastapi/annotated-doc/blob/0.0.4/LICENSE,False,,
+annotated-types,0.7.0,True,MIT,MIT,False,,https://github.com/annotated-types/annotated-types/blob/v0.7.0/LICENSE,https://github.com/annotated-types/annotated-types/blob/v0.7.0/LICENSE,False,,
+antlr4-python3-runtime,4.9.3,True,BSD-3-Clause,BSD-3-Clause,False,,https://www.antlr.org/license.html,https://www.antlr.org/license.html,False,,
+anyio,4.13.0,True,MIT,MIT,False,,https://github.com/agronholm/anyio/blob/4.13.0/LICENSE,https://github.com/agronholm/anyio/blob/4.13.0/LICENSE,False,,
+asteroid-filterbanks,0.4.0,True,MIT,MIT,False,,https://github.com/asteroid-team/asteroid-filterbanks/blob/v0.4.0/LICENSE,https://github.com/asteroid-team/asteroid-filterbanks/blob/v0.4.0/LICENSE,False,,
+asyncpg,0.31.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/MagicStack/asyncpg/blob/v0.31.0/LICENSE,https://github.com/MagicStack/asyncpg/blob/v0.31.0/LICENSE,False,,
+attrs,26.1.0,True,MIT,MIT,False,,https://github.com/python-attrs/attrs/blob/26.1.0/LICENSE,https://github.com/python-attrs/attrs/blob/26.1.0/LICENSE,False,,
+audioread,3.1.0,True,MIT,MIT,False,,https://github.com/beetbox/audioread/blob/v3.1.0/LICENSE,https://github.com/beetbox/audioread/blob/v3.1.0/LICENSE,False,,
+av,17.0.0,False,BSD-2-Clause,BSD-3-Clause,True,variant,https://github.com/PyAV-Org/PyAV/blob/v17.0.0/LICENSE.txt,https://github.com/PyAV-Org/PyAV/blob/v17.0.0/LICENSE.txt,False,license,license-changed[variant]: BSD-2-Clause -> BSD-3-Clause
+boolean.py,5.0,True,BSD-2-Clause,BSD-2-Clause,False,,https://github.com/bastikr/boolean.py/blob/v5.0/LICENSE.txt,https://github.com/bastikr/boolean.py/blob/v5.0/LICENSE.txt,False,,
+catboost,1.2.10,True,Apache-2.0,Apache-2.0,False,,https://github.com/catboost/catboost/blob/v1.2.10/LICENSE,https://github.com/catboost/catboost/blob/v1.2.10/LICENSE,False,,
+certifi,2026.2.25,True,MPL-2.0,MPL-2.0,False,,https://github.com/certifi/python-certifi/blob/2026.2.25/LICENSE,https://github.com/certifi/python-certifi/blob/2026.2.25/LICENSE,False,,link-broken-unresolved
+cffi,2.0.0,True,MIT,MIT,False,,https://github.com/python-cffi/cffi/blob/v2.0.0/LICENSE,https://github.com/python-cffi/cffi/blob/v2.0.0/LICENSE,False,,
+chardet,5.2.0,False,LGPLv2+,LGPL-2.0-or-later,True,variant,https://github.com/chardet/chardet/blob/5.2.0/LICENSE,https://github.com/chardet/chardet/blob/5.2.0/LICENSE,False,license,license-changed[variant]: LGPLv2+ -> LGPL-2.0-or-later
+charset-normalizer,3.4.7,True,MIT,MIT,False,,https://github.com/jawah/charset_normalizer/blob/3.4.7/LICENSE,https://github.com/jawah/charset_normalizer/blob/3.4.7/LICENSE,False,,
+click,8.3.2,True,BSD,BSD,False,,https://github.com/pallets/click/blob/8.3.2/README.rst,https://github.com/pallets/click/blob/8.3.2/LICENSE.txt,True,license_link,link-fixed
+coloredlogs,15.0.1,True,MIT,MIT,False,,https://github.com/xolox/python-coloredlogs/blob/15.0.1/LICENSE.txt,https://github.com/xolox/python-coloredlogs/blob/15.0.1/LICENSE.txt,False,,
+colorlog,6.10.1,True,MIT,MIT,False,,https://github.com/borntyping/python-colorlog/blob/v6.10.1/LICENSE,https://github.com/borntyping/python-colorlog/blob/v6.10.1/LICENSE,False,,
+contourpy,1.3.3,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/contourpy/contourpy/blob/v1.3.3/LICENSE,https://github.com/contourpy/contourpy/blob/v1.3.3/LICENSE,False,,
+ctranslate2,4.7.1,True,MIT,MIT,False,,https://github.com/OpenNMT/CTranslate2/blob/v4.7.1/LICENSE,https://github.com/OpenNMT/CTranslate2/blob/v4.7.1/LICENSE,False,,
+cuda-bindings,12.9.4,False,Apache-2.0,Apache-2.0,False,,https://github.com/NVIDIA/cuda-python/blob/v12.9.4/LICENSE,https://github.com/NVIDIA/cuda-python/blob/v12.9.4/LICENSE.md,True,license_link,license-unverified; link-fixed
+cuda-pathfinder,1.5.4,True,Apache-2.0,Apache-2.0,False,,https://github.com/NVIDIA/cuda-python/blob/v1.5.4/LICENSE,https://github.com/NVIDIA/cuda-python/blob/v1.5.4/LICENSE,False,,link-broken-unresolved
+cycler,0.12.1,False,BSD-2-Clause,BSD-3-Clause,True,variant,https://github.com/matplotlib/cycler/blob/v0.12.1/LICENSE,https://github.com/matplotlib/cycler/blob/v0.12.1/LICENSE,False,license,license-changed[variant]: BSD-2-Clause -> BSD-3-Clause
+cyclonedx-python-lib,11.7.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/CycloneDX/cyclonedx-python-lib/blob/v11.7.0/LICENSE,https://github.com/CycloneDX/cyclonedx-python-lib/blob/v11.7.0/LICENSE,False,,
+datasketch,1.9.0,False,BSD-3-Clause,MIT,True,cross-family,https://github.com/ekzhu/datasketch/blob/v1.9.0/LICENSE,https://github.com/ekzhu/datasketch/blob/v1.9.0/LICENSE,False,license,license-changed[cross-family]: BSD-3-Clause -> MIT
+DAWG-Python,0.7.2,True,MIT,MIT,False,,https://github.com/pytries/DAWG-Python/blob/0.7.2/LICENSE,https://github.com/pytries/DAWG-Python/blob/0.7.2/LICENSE,False,,
+dbus-python,1.3.2,True,MIT,MIT,False,,https://gitlab.freedesktop.org/dbus/dbus-python/-/blob/1.3.2/COPYING,https://gitlab.freedesktop.org/dbus/dbus-python/-/blob/1.3.2/COPYING,False,,link-broken-non-github
+decorator,5.2.1,False,BSD-2-Clause,BSD-3-Clause,True,variant,https://github.com/micheles/decorator/blob/5.2.1/LICENSE.txt,https://github.com/micheles/decorator/blob/5.2.1/LICENSE.txt,False,license,license-changed[variant]: BSD-2-Clause -> BSD-3-Clause
+defusedxml,0.7.1,True,PSF-2.0,PSF-2.0,False,,https://github.com/tiran/defusedxml/blob/v0.7.1/LICENSE,https://github.com/tiran/defusedxml/blob/v0.7.1/LICENSE,False,,
+demoji,1.1.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/bsolomon1124/demoji/blob/v1.1.0/LICENSE,https://github.com/bsolomon1124/demoji/blob/v1.1.0/LICENSE,False,,
+diskcache,5.6.3,True,Apache 2.0,Apache 2.0,False,,https://github.com/grantjenks/python-diskcache/blob/v5.6.3/LICENSE,https://github.com/grantjenks/python-diskcache/blob/v5.6.3/LICENSE,False,,
+distro,1.7.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/python-distro/distro/blob/v1.7.0/LICENSE,https://github.com/python-distro/distro/blob/v1.7.0/LICENSE,False,,
+dnspython,2.8.0,True,ISC License (ISCL),ISC License (ISCL),False,,https://github.com/rthalley/dnspython/blob/v2.8.0/LICENSE,https://github.com/rthalley/dnspython/blob/v2.8.0/LICENSE,False,,
+docopt,0.6.2,True,MIT License,MIT License,False,,https://github.com/docopt/docopt/blob/0.6.2/LICENSE-MIT,https://github.com/docopt/docopt/blob/0.6.2/LICENSE-MIT,False,,
+easyocr,1.7.1,True,Apache-2.0,Apache-2.0,False,,https://github.com/JaidedAI/EasyOCR/blob/v1.7.1/LICENSE,https://github.com/JaidedAI/EasyOCR/blob/v1.7.1/LICENSE,False,,
+einops,0.8.2,True,MIT License,MIT License,False,,https://github.com/arogozhnikov/einops/blob/v0.8.2/LICENSE,https://github.com/arogozhnikov/einops/blob/v0.8.2/LICENSE,False,,
+ethtool,0.15,False,GPL-2.0-or-later,GPL-2.0,True,variant,https://pypi.org/project/ethtool/0.15/,https://pypi.org/project/ethtool/0.15/,False,license,license-changed[variant]: GPL-2.0-or-later -> GPL-2.0
+fastapi,0.135.3,True,MIT License,MIT License,False,,https://github.com/fastapi/fastapi/blob/0.135.3/LICENSE,https://github.com/fastapi/fastapi/blob/0.135.3/LICENSE,False,,
+faster-whisper,1.2.1,True,MIT License,MIT License,False,,https://github.com/ggerganov/whisper.cpp/blob/1.2.1/LICENSE,https://github.com/ggerganov/whisper.cpp/blob/v1.2.1/LICENSE,True,license_link,link-fixed
+fasttext-numpy2,0.10.4,True,MIT,MIT,False,,https://pypi.org/project/fasttext-numpy2/0.10.4/,https://pypi.org/project/fasttext-numpy2/0.10.4/,False,,
+ffmpeg-python,0.2.0,False,MIT License,Apache-2.0,True,cross-family,https://github.com/kkroening/ffmpeg-python/blob/0.2.0/LICENSE,https://github.com/kkroening/ffmpeg-python/blob/0.2.0/LICENSE,False,license,license-changed[cross-family]: MIT License -> Apache-2.0
+filelock,3.25.2,True,MIT License,MIT License,False,,https://github.com/tox-dev/filelock/blob/3.25.2/LICENSE,https://github.com/tox-dev/filelock/blob/3.25.2/LICENSE,False,,
+flatbuffers,25.12.19,True,Apache 2.0,Apache 2.0,False,,https://github.com/google/flatbuffers/blob/v25.12.19/LICENSE,https://github.com/google/flatbuffers/blob/v25.12.19/LICENSE,False,,
+fonttools,4.62.1,True,MIT License,MIT License,False,,https://github.com/fonttools/fonttools/blob/4.62.1/LICENSE,https://github.com/fonttools/fonttools/blob/4.62.1/LICENSE,False,,
+frozendict,2.4.7,True,LGPL-3.0-only,LGPL-3.0-only,False,,https://github.com/Marco-Sulla/python-frozendict/blob/v2.4.7/LICENSE.txt,https://github.com/Marco-Sulla/python-frozendict/blob/v2.4.7/LICENSE.txt,False,,
+frozenlist,1.8.0,True,Apache 2.0,Apache 2.0,False,,https://github.com/aio-libs/frozenlist/blob/v1.8.0/LICENSE,https://github.com/aio-libs/frozenlist/blob/v1.8.0/LICENSE,False,,
+fsspec,2026.3.0,False,Apache 2.0,BSD-3-Clause,True,cross-family,https://github.com/fsspec/filesystem_spec/blob/2026.3.0/LICENSE,https://github.com/fsspec/filesystem_spec/blob/2026.3.0/LICENSE,False,license,license-changed[cross-family]: Apache 2.0 -> BSD-3-Clause
+future,1.0.0,True,MIT License,MIT License,False,,https://github.com/PythonCharmers/python-future/blob/v1.0.0/LICENSE.txt,https://github.com/PythonCharmers/python-future/blob/v1.0.0/LICENSE.txt,False,,
+gensim,4.4.0,True,LGPL-2.1,LGPL-2.1,False,,https://github.com/piskvorky/gensim/blob/4.4.0/COPYING,https://github.com/piskvorky/gensim/blob/4.4.0/COPYING,False,,
+gliner,0.2.26,True,Apache-2.0,Apache-2.0,False,,https://github.com/urchade/GLiNER/blob/v0.2.26/LICENSE,https://github.com/urchade/GLiNER/blob/v0.2.26/LICENSE,False,,
+googleapis-common-protos,1.75.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/googleapis/python-api-common-protos/blob/v1.75.0/LICENSE,https://github.com/googleapis/python-api-common-protos/blob/v1.75.0/LICENSE,False,,link-broken-unresolved
+gpg,1.17.1,False,LGPL-2.1-or-later,LGPL-2.0-or-later,True,variant,https://dev.gnupg.org/source/gpgme/browse/master/COPYING.LESSER,https://dev.gnupg.org/source/gpgme/browse/master/COPYING.LESSER,False,license,license-changed[variant]: LGPL-2.1-or-later -> LGPL-2.0-or-later; link-broken-non-github
+graphviz,0.21,True,MIT License,MIT License,False,,https://github.com/xflr6/graphviz/blob/0.21/LICENSE.txt,https://github.com/xflr6/graphviz/blob/0.21/LICENSE.txt,False,,
+greenlet,3.4.0,True,MIT License,"MIT, PSF-2.0",True,partial,https://github.com/python-greenlet/greenlet/blob/3.4.0/LICENSE,https://github.com/python-greenlet/greenlet/blob/3.4.0/LICENSE,False,license,"license-changed[partial]: MIT License -> MIT, PSF-2.0"
+grpcio,1.80.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/grpc/grpc/blob/v1.80.0/LICENSE,https://github.com/grpc/grpc/blob/v1.80.0/LICENSE,False,,
+h11,0.16.0,True,MIT License,MIT License,False,,https://github.com/python-hyper/h11/blob/v0.16.0/LICENSE.txt,https://github.com/python-hyper/h11/blob/v0.16.0/LICENSE.txt,False,,
+hdbscan,0.8.42,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/scikit-learn-contrib/hdbscan/blob/release-0.8.42/LICENSE,https://github.com/scikit-learn-contrib/hdbscan/blob/release-0.8.42/LICENSE,False,,
+hf-xet,1.5.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/huggingface/xet-core/blob/1.5.0/LICENSE,https://github.com/huggingface/xet-core/blob/1.5.0/LICENSE,False,,
+hiredis,2.3.2,False,MIT,BSD-3-Clause,True,cross-family,https://github.com/redis/hiredis-py/blob/v2.3.2/LICENSE,https://github.com/redis/hiredis-py/blob/v2.3.2/LICENSE,False,license,license-changed[cross-family]: MIT -> BSD-3-Clause
+huggingface_hub,0.36.2,True,Apache-2.0,Apache-2.0,False,,https://github.com/huggingface/huggingface_hub/blob/v0.36.2/LICENSE,https://github.com/huggingface/huggingface_hub/blob/v0.36.2/LICENSE,False,,
+humanfriendly,10.0,True,MIT License,MIT License,False,,https://github.com/xolox/python-humanfriendly/blob/10.0/LICENSE.txt,https://github.com/xolox/python-humanfriendly/blob/10.0/LICENSE.txt,False,,
+HyperPyYAML,1.2.3,False,MIT,Apache-2.0,True,cross-family,https://github.com/speechbrain/HyperPyYAML/blob/v1.2.3/LICENSE,https://github.com/speechbrain/HyperPyYAML/blob/v1.2.3/LICENSE,False,license,license-changed[cross-family]: MIT -> Apache-2.0
+idna,3.11,True,BSD 3-Clause License,BSD 3-Clause License,False,,https://github.com/kjd/idna/blob/v3.11/LICENSE.md,https://github.com/kjd/idna/blob/v3.11/LICENSE.md,False,,
+ImageIO,2.37.3,True,BSD-2-Clause,BSD-2-Clause,False,,https://github.com/imageio/imageio/blob/v2.37.3/LICENSE,https://github.com/imageio/imageio/blob/v2.37.3/LICENSE,False,,
+infi.clickhouse-orm,2.1.3,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/Infinidat/infi.clickhouse_orm/blob/v2.1.3/LICENSE,https://github.com/Infinidat/infi.clickhouse_orm/blob/v2.1.3/LICENSE,False,,
+intervaltree,3.2.1,True,Apache-2.0,Apache-2.0,False,,https://github.com/chaimleib/intervaltree/blob/3.2.1/LICENSE.txt,https://github.com/chaimleib/intervaltree/blob/3.2.1/LICENSE.txt,False,,
+ipymarkup,0.9.0,True,MIT License,MIT License,False,,https://github.com/natasha/ipymarkup/blob/v0.9.0/LICENSE,https://github.com/natasha/ipymarkup/blob/v0.9.0/LICENSE,False,,
+iso8601,2.1.0,True,MIT License,MIT License,False,,https://github.com/micktwomey/pyiso8601/blob/2.1.0/LICENSE,https://github.com/micktwomey/pyiso8601/blob/2.1.0/LICENSE,False,,
+Jinja2,3.1.6,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/pallets/jinja/blob/3.1.6/LICENSE.txt,https://github.com/pallets/jinja/blob/3.1.6/LICENSE.txt,False,,
+joblib,1.5.3,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/joblib/joblib/blob/1.5.3/LICENSE.txt,https://github.com/joblib/joblib/blob/1.5.3/LICENSE.txt,False,,
+jsonschema,4.26.0,True,MIT License,MIT License,False,,https://github.com/python-jsonschema/jsonschema/blob/v4.26.0/COPYING,https://github.com/python-jsonschema/jsonschema/blob/v4.26.0/COPYING,False,,
+jsonschema-specifications,2025.9.1,True,MIT License,MIT License,False,,https://github.com/python-jsonschema/jsonschema-specifications/blob/v2025.9.1/COPYING,https://github.com/python-jsonschema/jsonschema-specifications/blob/v2025.9.1/COPYING,False,,
+julius,0.2.7,True,MIT,MIT,False,,https://github.com/adefossez/julius/blob/main/LICENSE,https://github.com/adefossez/julius/blob/main/LICENSE,False,,
+kiwisolver,1.5.0,True,Modified BSD License,Modified BSD License,False,,https://github.com/nucleic/kiwi/blob/1.5.0/LICENSE,https://github.com/nucleic/kiwi/blob/1.5.0/LICENSE,False,,
+kneed,0.8.6,False,BSD 3-Clause,BSD 3-Clause,False,,https://github.com/arvkevi/kneed/blob/v0.8.6/LICENSE,https://github.com/arvkevi/kneed/blob/v0.8.6/LICENSE,False,,license-unverified
+lark,1.3.1,True,MIT,MIT,False,,https://github.com/lark-parser/lark/blob/1.3.1/LICENSE,https://github.com/lark-parser/lark/blob/1.3.1/LICENSE,False,,
+lazy-loader,0.5,True,BSD 3-Clause,BSD 3-Clause,False,,https://github.com/scientific-python/lazy-loader/blob/v0.5/LICENSE.md,https://github.com/scientific-python/lazy-loader/blob/v0.5/LICENSE.md,False,,
+libcomps,0.1.18,True,GPL-2.0-or-later,GPL-2.0-or-later,False,,https://github.com/rpm-software-management/libcomps/blob/0.1.18/COPYING,https://github.com/rpm-software-management/libcomps/blob/0.1.18/COPYING,False,,
+librosa,0.11.0,True,ISC License,ISC License,False,,https://github.com/librosa/librosa/blob/0.11.0/LICENSE.md,https://github.com/librosa/librosa/blob/0.11.0/LICENSE.md,False,,
+license-expression,30.4.4,True,Apache-2.0,Apache-2.0,False,,https://github.com/nexB/license-expression/blob/v30.4.4/apache-2.0.LICENSE,https://github.com/nexB/license-expression/blob/v30.4.4/apache-2.0.LICENSE,False,,
+lightning,2.6.1,True,Apache-2.0,Apache-2.0,False,,https://github.com/Lightning-AI/pytorch-lightning/blob/2.6.1/LICENSE,https://github.com/Lightning-AI/pytorch-lightning/blob/2.6.1/LICENSE,False,,
+lightning-utilities,0.15.3,True,Apache-2.0,Apache-2.0,False,,https://github.com/Lightning-AI/utilities/blob/v0.15.3/LICENSE,https://github.com/Lightning-AI/utilities/blob/v0.15.3/LICENSE,False,,
+llvmlite,0.47.0,True,BSD-2-Clause,"Apache-2.0, BSD-2-Clause",True,partial,https://github.com/numba/llvmlite/blob/v0.47.0/LICENSE,https://github.com/numba/llvmlite/blob/v0.47.0/LICENSE,False,license,"license-changed[partial]: BSD-2-Clause -> Apache-2.0, BSD-2-Clause"
+Mako,1.3.12,True,MIT,MIT,False,,https://github.com/sqlalchemy/mako/blob/rel_1_3_12/LICENSE,https://github.com/sqlalchemy/mako/blob/rel_1_3_12/LICENSE,False,,
+markdown-it-py,4.0.0,True,MIT,MIT,False,,https://github.com/executablebooks/markdown-it-py/blob/v4.0.0/LICENSE,https://github.com/executablebooks/markdown-it-py/blob/v4.0.0/LICENSE,False,,
+MarkupSafe,3.0.3,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/pallets/markupsafe/blob/3.0.3/LICENSE.txt,https://github.com/pallets/markupsafe/blob/3.0.3/LICENSE.txt,False,,
+matplotlib,3.10.8,True,PSF-based,PSF-based,False,,https://github.com/matplotlib/matplotlib/blob/v3.10.8/LICENSE/LICENSE,https://github.com/matplotlib/matplotlib/blob/v3.10.8/LICENSE/LICENSE,False,,
+mdurl,0.1.2,True,MIT,MIT,False,,https://github.com/executablebooks/mdurl/blob/0.1.2/LICENSE,https://github.com/executablebooks/mdurl/blob/0.1.2/LICENSE,False,,
+more-itertools,11.0.2,True,MIT,MIT,False,,https://github.com/more-itertools/more-itertools/blob/v11.0.2/LICENSE,https://github.com/more-itertools/more-itertools/blob/v11.0.2/LICENSE,False,,
+mpmath,1.3.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/fredrik-johansson/mpmath/blob/1.3.0/LICENSE,https://github.com/fredrik-johansson/mpmath/blob/1.3.0/LICENSE,False,,
+msgpack,1.1.2,True,Apache-2.0,Apache-2.0,False,,https://github.com/msgpack/msgpack-python/blob/v1.1.2/COPYING,https://github.com/msgpack/msgpack-python/blob/v1.1.2/COPYING,False,,
+multidict,6.7.1,True,Apache-2.0,Apache-2.0,False,,https://github.com/aio-libs/multidict/blob/v6.7.1/LICENSE,https://github.com/aio-libs/multidict/blob/v6.7.1/LICENSE,False,,
+narwhals,2.19.0,True,MIT,MIT,False,,https://github.com/narwhals-dev/narwhals/blob/v2.19.0/LICENSE.md,https://github.com/narwhals-dev/narwhals/blob/v2.19.0/LICENSE.md,False,,
+natasha,1.6.0,True,MIT,MIT,False,,https://github.com/natasha/natasha/blob/v1.6.0/LICENSE,https://github.com/natasha/natasha/blob/v1.6.0/LICENSE,False,,
+nats-py,2.11.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/nats-io/nats.py/blob/v2.11.0/LICENSE,https://github.com/nats-io/nats.py/blob/v2.11.0/LICENSE,False,,
+navec,0.10.0,True,MIT,MIT,False,,https://github.com/natasha/navec/blob/v0.10.0/LICENSE,https://github.com/natasha/navec/blob/v0.10.0/LICENSE,False,,
+networkx,3.6.1,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/networkx/networkx/blob/networkx-3.6.1/LICENSE.txt,https://github.com/networkx/networkx/blob/networkx-3.6.1/LICENSE.txt,False,,
+ninja,1.13.0,True,Apache-2.0,"Apache-2.0, BSD-3-Clause",True,partial,https://github.com/ninja-build/ninja/blob/v1.13.0/COPYING,https://github.com/ninja-build/ninja/blob/v1.13.0/COPYING,False,license,"license-changed[partial]: Apache-2.0 -> Apache-2.0, BSD-3-Clause"
+nltk,3.9.4,True,Apache-2.0,Apache-2.0,False,,https://github.com/nltk/nltk/blob/3.9.4/LICENSE.txt,https://github.com/nltk/nltk/blob/3.9.4/LICENSE.txt,False,,
+numba,0.65.0,False,BSD-2-Clause,BSD-3-Clause,True,variant,https://github.com/numba/numba/blob/0.65.0/LICENSE,https://github.com/numba/numba/blob/0.65.0/LICENSE,False,license,license-changed[variant]: BSD-2-Clause -> BSD-3-Clause
+numpy,2.4.4,True,BSD-3-Clause,"BSD-3-Clause, CC0-1.0, MIT, Zlib",True,partial,https://github.com/numpy/numpy/blob/v2.4.4/LICENSE.txt,https://github.com/numpy/numpy/blob/v2.4.4/LICENSE.txt,False,license,"license-changed[partial]: BSD-3-Clause -> BSD-3-Clause, CC0-1.0, MIT, Zlib"
+nvidia-cublas-cu12,12.8.4.1,True,Proprietary,Proprietary,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+nvidia-cuda-cupti-cu12,12.8.90,True,Proprietary,Proprietary,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+nvidia-cuda-nvrtc-cu12,12.8.93,True,Proprietary,Proprietary,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+nvidia-cuda-runtime-cu12,12.8.90,True,Proprietary,Proprietary,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+nvidia-cudnn-cu12,9.10.2.21,True,Proprietary,Proprietary,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+nvidia-cufft-cu12,11.3.3.83,True,Proprietary,Proprietary,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+nvidia-cufile-cu12,1.13.1.3,False,NVIDIA Software License,Proprietary,True,unrecognized,https://developer.download.nvidia.com/compute/cuda/redist/LICENSE,https://developer.download.nvidia.com/compute/cuda/redist/LICENSE,False,license,license-changed[unrecognized]: NVIDIA Software License -> Proprietary; link-broken-non-github
+nvidia-curand-cu12,10.3.9.90,True,Proprietary,Proprietary,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+nvidia-cusolver-cu12,11.7.3.90,True,Proprietary,Proprietary,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+nvidia-cusparse-cu12,12.5.8.93,True,Proprietary,Proprietary,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+nvidia-cusparselt-cu12,0.7.1,True,Proprietary,Proprietary,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+nvidia-ml-py,13.595.45,True,BSD-3-Clause,BSD-3-Clause,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+nvidia-nccl-cu12,2.27.5,True,Proprietary,Proprietary,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+nvidia-nvjitlink-cu12,12.8.93,True,Proprietary,Proprietary,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+nvidia-nvshmem-cu12,3.4.5,False,NVIDIA Software License,NVIDIA Software License,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,license-unverified
+nvidia-nvtx-cu12,12.8.90,True,Proprietary,Proprietary,False,,https://docs.nvidia.com/cuda/eula/index.html,https://docs.nvidia.com/cuda/eula/index.html,False,,
+omegaconf,2.3.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/omry/omegaconf/blob/v2.3.0/LICENSE,https://github.com/omry/omegaconf/blob/v2.3.0/LICENSE,False,,
+onnxruntime-gpu,1.24.4,True,MIT,MIT,False,,https://github.com/microsoft/onnxruntime/blob/v1.24.4/LICENSE,https://github.com/microsoft/onnxruntime/blob/v1.24.4/LICENSE,False,,
+opencv-contrib-python,4.10.0.84,True,Apache-2.0,Apache-2.0,False,,https://github.com/opencv/opencv-python/blob/84/LICENSE.txt,https://github.com/opencv/opencv-python/blob/84/LICENSE.txt,False,,link-unchecked
+opencv-python,4.5.5.64,False,Apache-2.0,MIT,True,cross-family,https://github.com/opencv/opencv-python/blob/64/LICENSE.txt,https://github.com/opencv/opencv-python/blob/64/LICENSE.txt,False,license,license-changed[cross-family]: Apache-2.0 -> MIT
+opencv-python-headless,4.11.0.86,True,Apache-2.0,Apache-2.0,False,,https://github.com/opencv/opencv-python/blob/86/LICENSE.txt,https://github.com/opencv/opencv-python/blob/86/LICENSE.txt,False,,
+opentelemetry-api,1.42.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,False,,
+opentelemetry-exporter-otlp,1.42.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,False,,
+opentelemetry-exporter-otlp-proto-common,1.42.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,False,,
+opentelemetry-exporter-otlp-proto-grpc,1.42.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,False,,
+opentelemetry-exporter-otlp-proto-http,1.42.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,False,,
+opentelemetry-proto,1.42.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,False,,
+opentelemetry-sdk,1.42.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,False,,
+opentelemetry-semantic-conventions,0.63b0,True,Apache-2.0,Apache-2.0,False,,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,https://github.com/open-telemetry/opentelemetry-python/blob/v1.42.0/LICENSE,False,,
+optuna,4.8.0,True,MIT,MIT,False,,https://github.com/optuna/optuna/blob/v4.8.0/LICENSE,https://github.com/optuna/optuna/blob/v4.8.0/LICENSE,False,,
+packageurl-python,0.17.6,True,MIT,MIT,False,,https://github.com/package-url/packageurl-python/blob/v0.17.6/mit.LICENSE,https://github.com/package-url/packageurl-python/blob/v0.17.6/mit.LICENSE,False,,
+packaging,26.0,True,Apache-2.0,"Apache-2.0, BSD-2-Clause",True,partial,https://github.com/pypa/packaging/blob/26.0/LICENSE,https://github.com/pypa/packaging/blob/26.0/LICENSE,False,license,"license-changed[partial]: Apache-2.0 -> Apache-2.0, BSD-2-Clause"
+pandas,3.0.2,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/pandas-dev/pandas/blob/v3.0.2/LICENSE,https://github.com/pandas-dev/pandas/blob/v3.0.2/LICENSE,False,,
+pika,1.3.2,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/pika/pika/blob/1.3.2/LICENSE,https://github.com/pika/pika/blob/1.3.2/LICENSE,False,,
+pillow,12.2.0,False,HPND,MIT,True,unrecognized,https://github.com/python-pillow/Pillow/blob/12.2.0/LICENSE,https://github.com/python-pillow/Pillow/blob/12.2.0/LICENSE,False,license,license-changed[unrecognized]: HPND -> MIT
+pip,24.0,True,MIT,MIT,False,,https://github.com/pypa/pip/blob/24.0/LICENSE.txt,https://github.com/pypa/pip/blob/24.0/LICENSE.txt,False,,
+pip-requirements-parser,32.0.1,True,MIT,MIT,False,,https://github.com/nexB/pip-requirements-parser/blob/v32.0.1/LICENSE,https://github.com/nexB/pip-requirements-parser/blob/v32.0.1/LICENSE,False,,
+platformdirs,4.9.6,True,MIT,MIT,False,,https://github.com/platformdirs/platformdirs/blob/4.9.6/LICENSE,https://github.com/platformdirs/platformdirs/blob/4.9.6/LICENSE,False,,
+plotly,6.7.0,True,MIT,MIT,False,,https://github.com/plotly/plotly.py/blob/v6.7.0/LICENSE.txt,https://github.com/plotly/plotly.py/blob/v6.7.0/LICENSE.txt,False,,
+pooch,1.9.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/fatiando/pooch/blob/v1.9.0/LICENSE.txt,https://github.com/fatiando/pooch/blob/v1.9.0/LICENSE.txt,False,,
+primePy,1.3,True,MIT,MIT,False,,https://github.com/sjkingo/primePy/blob/v1.3/LICENSE,https://github.com/sjkingo/primePy/blob/v1.3/LICENSE,False,,link-broken-unresolved
+prometheus_client,0.25.0,True,Apache-2.0,"Apache-2.0, BSD-2-Clause",True,partial,https://github.com/prometheus/client_python/blob/v0.25.0/LICENSE,https://github.com/prometheus/client_python/blob/v0.25.0/LICENSE,False,license,"license-changed[partial]: Apache-2.0 -> Apache-2.0, BSD-2-Clause"
+propcache,0.4.1,False,MIT,Apache-2.0,True,cross-family,https://github.com/aio-libs/propcache/blob/v0.4.1/LICENSE,https://github.com/aio-libs/propcache/blob/v0.4.1/LICENSE,False,license,license-changed[cross-family]: MIT -> Apache-2.0
+protobuf,6.33.6,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/protocolbuffers/protobuf/blob/v6.33.6/LICENSE,https://github.com/protocolbuffers/protobuf/blob/v6.33.6/LICENSE,False,,link-broken-unresolved
+psutil,7.2.2,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/giampaolo/psutil/blob/release-7.2.2/LICENSE,https://github.com/giampaolo/psutil/blob/release-7.2.2/LICENSE,False,,
+psycopg2-binary,2.9.9,False,LGPL-3.0-or-later,LGPL-3.0-or-later,False,,https://github.com/psycopg/psycopg2/blob/2.9.9/LICENSE,https://github.com/psycopg/psycopg2/blob/2.9.9/LICENSE,False,,license-unverified
+py-serializable,2.1.0,False,MIT,Apache-2.0,True,cross-family,https://github.com/madpah/serializable/blob/v2.1.0/LICENSE,https://github.com/madpah/serializable/blob/v2.1.0/LICENSE,False,license,license-changed[cross-family]: MIT -> Apache-2.0
+pyannote-audio,4.0.4,False,MIT,MIT,False,,https://github.com/pyannote/pyannote-audio/blob/4.0.4/LICENSE,https://github.com/pyannote/pyannote-audio/blob/4.0.4/LICENSE,False,,license-unverified
+pyannote-core,6.0.1,False,MIT,MIT,False,,https://github.com/pyannote/pyannote-core/blob/6.0.1/LICENSE,https://github.com/pyannote/pyannote-core/blob/6.0.1/LICENSE,False,,license-unverified
+pyannote-database,6.1.1,False,MIT,MIT,False,,https://github.com/pyannote/pyannote-database/blob/6.1.1/LICENSE,https://github.com/pyannote/pyannote-database/blob/6.1.1/LICENSE,False,,license-unverified
+pyannote-metrics,4.0.0,False,MIT,MIT,False,,https://github.com/pyannote/pyannote-metrics/blob/4.0.0/LICENSE,https://github.com/pyannote/pyannote-metrics/blob/4.0.0/LICENSE,False,,license-unverified
+pyannote-pipeline,4.0.0,False,MIT,MIT,False,,https://github.com/pyannote/pyannote-pipeline/blob/4.0.0/LICENSE,https://github.com/pyannote/pyannote-pipeline/blob/4.0.0/LICENSE,False,,license-unverified
+pyannoteai-sdk,0.4.0,False,MIT,MIT,False,,https://pypi.org/project/pyannoteai-sdk/,https://pypi.org/project/pyannoteai-sdk/,False,,license-unverified
+pybind11,3.0.3,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/pybind/pybind11/blob/v3.0.3/LICENSE,https://github.com/pybind/pybind11/blob/v3.0.3/LICENSE,False,,
+pyclipper,1.4.0,True,MIT,MIT,False,,https://github.com/fonttools/pyclipper/blob/1.4.0/LICENSE,https://github.com/fonttools/pyclipper/blob/1.4.0/LICENSE,False,,
+pycparser,3.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/eliben/pycparser/blob/release_v3.0/LICENSE,https://github.com/eliben/pycparser/blob/release_v3.0/LICENSE,False,,link-broken-unresolved
+pydantic,2.12.5,True,MIT,MIT,False,,https://github.com/pydantic/pydantic/blob/v2.12.5/LICENSE,https://github.com/pydantic/pydantic/blob/v2.12.5/LICENSE,False,,
+pydantic-settings,2.13.1,True,MIT,MIT,False,,https://github.com/pydantic/pydantic-settings/blob/v2.13.1/LICENSE,https://github.com/pydantic/pydantic-settings/blob/v2.13.1/LICENSE,False,,
+pydantic_core,2.41.5,True,MIT,MIT,False,,https://github.com/pydantic/pydantic-core/blob/v2.41.5/LICENSE,https://github.com/pydantic/pydantic-core/blob/v2.41.5/LICENSE,False,,
+pyfarmhash,0.4.0,True,MIT,MIT,False,,https://github.com/veelion/python-farmhash/blob/v0.4.0/LICENSE,https://github.com/veelion/python-farmhash/blob/v0.4.0/LICENSE,False,,link-broken-unresolved
+Pygments,2.20.0,True,BSD-2-Clause,BSD-2-Clause,False,,https://github.com/pygments/pygments/blob/2.20.0/LICENSE,https://github.com/pygments/pygments/blob/2.20.0/LICENSE,False,,
+pyinotify,0.9.6,True,MIT,MIT,False,,https://github.com/seb-m/pyinotify/blob/0.9.6/COPYING,https://github.com/seb-m/pyinotify/blob/0.9.6/COPYING,False,,
+PyJWT,2.12.1,True,MIT,MIT,False,,https://github.com/jpadilla/pyjwt/blob/2.12.1/LICENSE,https://github.com/jpadilla/pyjwt/blob/2.12.1/LICENSE,False,,
+pymongo,4.16.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/mongodb/mongo-python-driver/blob/4.16.0/LICENSE,https://github.com/mongodb/mongo-python-driver/blob/4.16.0/LICENSE,False,,
+pymorphy2,0.9.1,True,MIT,MIT,False,,https://github.com/pymorphy2/pymorphy2/blob/0.9.1/AUTHORS.rst,https://github.com/pymorphy2/pymorphy2/blob/0.9.1/AUTHORS.rst,False,,
+pymorphy2-dicts-ru,2.4.417127.4579844,True,MIT,MIT,False,,https://github.com/pymorphy2/pymorphy2-dicts/blob/master/README.rst,https://github.com/pymorphy2/pymorphy2-dicts/blob/master/README.rst,False,,
+Pympler,1.1,True,Apache-2.0,Apache-2.0,False,,https://github.com/pympler/pympler/blob/v1.1/LICENSE,https://github.com/pympler/pympler/blob/1.1/LICENSE,True,license_link,link-fixed
+pyparsing,3.3.2,True,MIT,MIT,False,,https://github.com/pyparsing/pyparsing/blob/3.3.2/LICENSE,https://github.com/pyparsing/pyparsing/blob/3.3.2/LICENSE,False,,
+PySocks,1.7.1,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/Anorov/PySocks/blob/1.7.0/LICENSE,https://github.com/Anorov/PySocks/blob/1.7.0/LICENSE,False,,
+pytesseract,0.3.13,True,Apache-2.0,Apache-2.0,False,,https://github.com/madmaze/pytesseract/blob/v0.3.13/LICENSE,https://github.com/madmaze/pytesseract/blob/v0.3.13/LICENSE,False,,
+python-bidi,0.6.10,False,LGPL-3.0-or-later,LGPL-3.0-or-later,False,,https://github.com/MeirKriheli/python-bidi/blob/v0.6.10/COPYING,https://github.com/MeirKriheli/python-bidi/blob/v0.6.10/COPYING,False,,license-unverified
+python-consul,1.1.0,True,MIT,MIT,False,,https://github.com/python-consul/python-consul/blob/v1.1.0/LICENSE,https://github.com/python-consul/python-consul/blob/v1.1.0/LICENSE,False,,
+python-dateutil,2.9.0.post0,True,Apache-2.0,"Apache-2.0, BSD-3-Clause",True,partial,https://github.com/dateutil/dateutil/blob/2.9.0/LICENSE,https://github.com/dateutil/dateutil/blob/2.9.0/LICENSE,False,license,"license-changed[partial]: Apache-2.0 -> Apache-2.0, BSD-3-Clause"
+python-dotenv,1.2.2,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/theskumar/python-dotenv/blob/v1.2.2/LICENSE,https://github.com/theskumar/python-dotenv/blob/v1.2.2/LICENSE,False,,
+python-iso639,2026.1.31,False,MIT,Apache-2.0,True,cross-family,https://github.com/jacksonllee/iso639/blob/v2026.1.31/LICENSE.txt,https://github.com/jacksonllee/iso639/blob/v2026.1.31/LICENSE.txt,False,license,license-changed[cross-family]: MIT -> Apache-2.0
+python-multipart,0.0.26,True,Apache-2.0,Apache-2.0,False,,https://github.com/Kludex/python-multipart/blob/0.0.26/LICENSE.txt,https://github.com/Kludex/python-multipart/blob/0.0.26/LICENSE.txt,False,,
+pytorch-lightning,2.6.1,True,Apache-2.0,Apache-2.0,False,,https://github.com/Lightning-AI/pytorch-lightning/blob/2.6.1/LICENSE,https://github.com/Lightning-AI/pytorch-lightning/blob/2.6.1/LICENSE,False,,
+pytorch-metric-learning,2.9.0,True,MIT,MIT,False,,https://github.com/KevinMusgrave/pytorch-metric-learning/blob/v2.9.0/LICENSE,https://github.com/KevinMusgrave/pytorch-metric-learning/blob/v2.9.0/LICENSE,False,,
+pytz,2026.2,True,MIT,MIT,False,,https://github.com/stub42/pytz/blob/release_2026.2/LICENSE.txt,https://github.com/stub42/pytz/blob/release_2026.2/LICENSE.txt,False,,
+PyYAML,6.0.3,True,MIT,MIT,False,,https://github.com/yaml/pyyaml/blob/6.0.3/LICENSE,https://github.com/yaml/pyyaml/blob/6.0.3/LICENSE,False,,
+ray,2.54.1,True,Apache-2.0,Apache-2.0,False,,https://github.com/ray-project/ray/blob/ray-2.54.1/LICENSE,https://github.com/ray-project/ray/blob/ray-2.54.1/LICENSE,False,,
+razdel,0.5.0,True,MIT,MIT,False,,https://github.com/natasha/razdel/blob/master/LICENSE,https://github.com/natasha/razdel/blob/master/LICENSE,False,,
+redis,5.0.4,True,MIT,MIT,False,,https://github.com/redis/redis-py/blob/v5.0.4/LICENSE,https://github.com/redis/redis-py/blob/v5.0.4/LICENSE,False,,
+referencing,0.37.0,True,MIT,MIT,False,,https://github.com/python-jsonschema/referencing/blob/v0.37.0/COPYING,https://github.com/python-jsonschema/referencing/blob/v0.37.0/COPYING,False,,
+regex,2026.4.4,True,Apache-2.0,Apache-2.0,False,,https://github.com/mrabarnett/mrab-regex/blob/2026.4.4/LICENSE.txt,https://github.com/mrabarnett/mrab-regex/blob/2026.4.4/LICENSE.txt,False,,
+requests,2.33.1,True,Apache-2.0,Apache-2.0,False,,https://github.com/psf/requests/blob/v2.33.1/LICENSE,https://github.com/psf/requests/blob/v2.33.1/LICENSE,False,,
+requests-toolbelt,1.0.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/requests/toolbelt/blob/1.0.0/LICENSE,https://github.com/requests/toolbelt/blob/1.0.0/LICENSE,False,,
+rich,15.0.0,True,MIT,MIT,False,,https://github.com/Textualize/rich/blob/v15.0.0/LICENSE,https://github.com/Textualize/rich/blob/v15.0.0/LICENSE,False,,
+rpds-py,0.30.0,True,MIT,MIT,False,,https://github.com/crate-py/rpds/blob/v0.30.0/LICENSE,https://github.com/crate-py/rpds/blob/v0.30.0/LICENSE,False,,
+rpm,4.18.2,False,GPL-2.0-or-later,MIT,True,cross-family,https://github.com/rpm-software-management/rpm/blob/rpm-4.18.2/COPYING,https://github.com/rpm-software-management/rpm/blob/rpm-4.18.2/COPYING,False,license,license-changed[cross-family]: GPL-2.0-or-later -> MIT; link-broken-unresolved
+ruamel.yaml,0.18.17,True,MIT,MIT,False,,https://sourceforge.net/p/ruamel-yaml/code/ci/0.18.17/tree/LICENSE,https://sourceforge.net/p/ruamel-yaml/code/ci/0.18.17/tree/LICENSE,False,,
+ruamel.yaml.clib,0.2.15,True,MIT,MIT,False,,https://sourceforge.net/p/ruamel-yaml-clib/code/ci/0.2.15/tree/LICENSE,https://sourceforge.net/p/ruamel-yaml-clib/code/ci/0.2.15/tree/LICENSE,False,,
+safetensors,0.7.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/huggingface/safetensors/blob/v0.7.0/LICENSE,https://github.com/huggingface/safetensors/blob/v0.7.0/LICENSE,False,,
+scikit-image,0.26.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/scikit-image/scikit-image/blob/v0.26.0/LICENSE.txt,https://github.com/scikit-image/scikit-image/blob/v0.26.0/LICENSE.txt,False,,
+scikit-learn,1.8.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/scikit-learn/scikit-learn/blob/1.8.0/COPYING,https://github.com/scikit-learn/scikit-learn/blob/1.8.0/COPYING,False,,
+scipy,1.17.1,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/scipy/scipy/blob/v1.17.1/LICENSE.txt,https://github.com/scipy/scipy/blob/v1.17.1/LICENSE.txt,False,,
+semver,3.0.4,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/python-semver/python-semver/blob/3.0.4/LICENSE.txt,https://github.com/python-semver/python-semver/blob/3.0.4/LICENSE.txt,False,,
+sentencepiece,0.2.1,False,Apache-2.0,Apache-2.0,False,,https://github.com/google/sentencepiece/blob/v0.2.1/LICENSE,https://github.com/google/sentencepiece/blob/v0.2.1/LICENSE,False,,license-unverified
+setuptools,70.0.0,True,MIT,MIT,False,,https://github.com/pypa/setuptools/blob/v70.0.0/LICENSE,https://github.com/pypa/setuptools/blob/v70.0.0/LICENSE,False,,
+shapely,2.1.2,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/shapely/shapely/blob/2.1.2/LICENSE.txt,https://github.com/shapely/shapely/blob/2.1.2/LICENSE.txt,False,,
+shellingham,1.5.4,True,ISC,ISC,False,,https://github.com/sarugaku/shellingham/blob/1.5.4/LICENSE,https://github.com/sarugaku/shellingham/blob/1.5.4/LICENSE,False,,
+simhash,2.1.2,True,MIT,MIT,False,,https://github.com/1e0ng/simhash/blob/master/LICENSE,https://github.com/1e0ng/simhash/blob/master/LICENSE,False,,
+six,1.17.0,True,MIT,MIT,False,,https://github.com/benjaminp/six/blob/1.17.0/LICENSE,https://github.com/benjaminp/six/blob/1.17.0/LICENSE,False,,
+slovnet,0.6.0,True,MIT,MIT,False,,https://github.com/natasha/slovnet/blob/v0.6.0/LICENSE,https://github.com/natasha/slovnet/blob/v0.6.0/LICENSE,False,,
+smart_open,7.5.1,True,MIT,MIT,False,,https://github.com/piskvorky/smart_open/blob/v7.5.1/LICENSE,https://github.com/piskvorky/smart_open/blob/v7.5.1/LICENSE,False,,
+sniffio,1.3.1,True,Apache-2.0,"Apache-2.0, MIT",True,partial,https://github.com/python-trio/sniffio/blob/v1.3.1/LICENSE,https://github.com/python-trio/sniffio/blob/v1.3.1/LICENSE,False,license,"license-changed[partial]: Apache-2.0 -> Apache-2.0, MIT"
+sortedcontainers,2.4.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/grantjenks/python-sortedcontainers/blob/v2.4.0/LICENSE,https://github.com/grantjenks/python-sortedcontainers/blob/v2.4.0/LICENSE,False,,
+soundfile,0.13.1,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/bastibe/python-soundfile/blob/0.13.1/LICENSE,https://github.com/bastibe/python-soundfile/blob/0.13.1/LICENSE,False,,
+soxr,1.0.0,False,LGPL-2.1,LGPL-2.1-or-later,True,variant,https://github.com/dofuuz/python-soxr/blob/v1.0.0/LICENSE.txt,https://github.com/dofuuz/python-soxr/blob/v1.0.0/LICENSE.txt,False,license,license-changed[variant]: LGPL-2.1 -> LGPL-2.1-or-later
+speechbrain,1.1.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/speechbrain/speechbrain/blob/v1.1.0/LICENSE,https://github.com/speechbrain/speechbrain/blob/v1.1.0/LICENSE,False,,
+SQLAlchemy,2.0.30,True,MIT,MIT,False,,https://github.com/sqlalchemy/sqlalchemy/blob/rel_2_0_30/LICENSE,https://github.com/sqlalchemy/sqlalchemy/blob/rel_2_0_30/LICENSE,False,,
+SQLAlchemy-Utils,0.41.2,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/kvesteri/sqlalchemy-utils/blob/0.41.2/LICENSE,https://github.com/kvesteri/sqlalchemy-utils/blob/0.41.2/LICENSE,False,,
+starlette,1.0.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/encode/starlette/blob/1.0.0/LICENSE.md,https://github.com/encode/starlette/blob/1.0.0/LICENSE.md,False,,
+sympy,1.14.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/sympy/sympy/blob/sympy-1.14.0/LICENSE,https://github.com/sympy/sympy/blob/sympy-1.14.0/LICENSE,False,,
+systemd-python,235,False,LGPL-2.1-or-later,LGPL-2.0-or-later,True,variant,https://github.com/systemd/python-systemd/blob/v235/LICENSE.txt,https://github.com/systemd/python-systemd/blob/v235/LICENSE.txt,False,license,license-changed[variant]: LGPL-2.1-or-later -> LGPL-2.0-or-later
+tabulate,0.10.0,True,MIT,MIT,False,,https://github.com/astanin/python-tabulate/blob/v0.10.0/LICENSE,https://github.com/astanin/python-tabulate/blob/v0.10.0/LICENSE,False,,
+tenacity,9.1.4,True,Apache-2.0,Apache-2.0,False,,https://github.com/jd/tenacity/blob/9.1.4/LICENSE,https://github.com/jd/tenacity/blob/9.1.4/LICENSE,False,,
+tensorboardX,2.6.5,True,MIT,MIT,False,,https://github.com/lanpa/tensorboardX/blob/v2.6.5/LICENSE,https://github.com/lanpa/tensorboardX/blob/v2.6.5/LICENSE,False,,
+textblob,0.20.0,True,MIT,MIT,False,,https://github.com/sloria/TextBlob/blob/0.20.0/LICENSE,https://github.com/sloria/TextBlob/blob/0.20.0/LICENSE,False,,
+threadpoolctl,3.6.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/joblib/threadpoolctl/blob/3.6.0/LICENSE,https://github.com/joblib/threadpoolctl/blob/3.6.0/LICENSE,False,,
+tifffile,2026.3.3,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/cgohlke/tifffile/blob/v2026.3.3/LICENSE,https://github.com/cgohlke/tifffile/blob/v2026.3.3/LICENSE,False,,
+tokenizers,0.22.2,True,Apache-2.0,Apache-2.0,False,,https://github.com/huggingface/tokenizers/blob/v0.22.2/LICENSE,https://github.com/huggingface/tokenizers/blob/v0.22.2/LICENSE,False,,
+torch,2.10.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/pytorch/pytorch/blob/v2.10.0/LICENSE,https://github.com/pytorch/pytorch/blob/v2.10.0/LICENSE,False,,
+torch-audiomentations,0.12.0,True,MIT,MIT,False,,https://github.com/iver56/torch-audiomentations/blob/v0.12.0/LICENSE,https://github.com/iver56/torch-audiomentations/blob/v0.12.0/LICENSE,False,,
+torch_pitch_shift,1.2.5,True,MIT,MIT,False,,https://pypi.org/project/torch-pitch-shift/1.2.5/,https://pypi.org/project/torch-pitch-shift/1.2.5/,False,,
+torchaudio,2.10.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/pytorch/audio/blob/v2.10.0/LICENSE,https://github.com/pytorch/audio/blob/v2.10.0/LICENSE,False,,
+torchcodec,0.10.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/pytorch/torchcodec/blob/v0.10.0/LICENSE,https://github.com/pytorch/torchcodec/blob/v0.10.0/LICENSE,False,,
+torchmetrics,1.8.2,True,Apache-2.0,Apache-2.0,False,,https://github.com/Lightning-AI/torchmetrics/blob/v1.8.2/LICENSE,https://github.com/Lightning-AI/torchmetrics/blob/v1.8.2/LICENSE,False,,
+torchvision,0.25.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/pytorch/vision/blob/v0.25.0/LICENSE,https://github.com/pytorch/vision/blob/v0.25.0/LICENSE,False,,
+tqdm,4.67.3,True,MPL-2.0,"MIT, MPL-2.0",True,partial,https://github.com/tqdm/tqdm/blob/v4.67.3/LICENCE,https://github.com/tqdm/tqdm/blob/v4.67.3/LICENCE,False,license,"license-changed[partial]: MPL-2.0 -> MIT, MPL-2.0"
+transformers,4.57.6,True,Apache-2.0,Apache-2.0,False,,https://github.com/huggingface/transformers/blob/v4.57.6/LICENSE,https://github.com/huggingface/transformers/blob/v4.57.6/LICENSE,False,,
+triton,3.6.0,True,MIT,MIT,False,,https://github.com/openai/triton/blob/v3.6.0/LICENSE,https://github.com/openai/triton/blob/v3.6.0/LICENSE,False,,
+typer,0.24.1,True,MIT,MIT,False,,https://github.com/tiangolo/typer/blob/0.24.1/LICENSE,https://github.com/tiangolo/typer/blob/0.24.1/LICENSE,False,,
+typing-inspection,0.4.2,True,MIT,MIT,False,,https://github.com/pydantic/typing-inspection/blob/v0.4.2/LICENSE,https://github.com/pydantic/typing-inspection/blob/v0.4.2/LICENSE,False,,
+typing_extensions,4.15.0,True,PSF-2.0,PSF-2.0,False,,https://github.com/python/typing_extensions/blob/4.15.0/LICENSE,https://github.com/python/typing_extensions/blob/4.15.0/LICENSE,False,,
+tzdata,2026.1,True,Apache-2.0,Apache-2.0,False,,https://github.com/python/tzdata/blob/2026.1/LICENSE,https://github.com/python/tzdata/blob/2026.1/LICENSE,False,,
+urllib3,2.6.3,True,MIT,MIT,False,,https://github.com/urllib3/urllib3/blob/2.6.3/LICENSE.txt,https://github.com/urllib3/urllib3/blob/2.6.3/LICENSE.txt,False,,
+uvicorn,0.44.0,True,BSD-3-Clause,BSD-3-Clause,False,,https://github.com/encode/uvicorn/blob/0.44.0/LICENSE.md,https://github.com/encode/uvicorn/blob/0.44.0/LICENSE.md,False,,
+wheel,0.43.0,True,MIT,MIT,False,,https://github.com/pypa/wheel/blob/0.43.0/LICENSE.txt,https://github.com/pypa/wheel/blob/0.43.0/LICENSE.txt,False,,
+wrapt,2.1.2,True,BSD-2-Clause,BSD-2-Clause,False,,https://github.com/GrahamDumpleton/wrapt/blob/2.1.2/LICENSE,https://github.com/GrahamDumpleton/wrapt/blob/2.1.2/LICENSE,False,,
+yargy,0.16.0,True,MIT,MIT,False,,https://github.com/natasha/yargy/blob/v0.16.0/LICENSE,https://github.com/natasha/yargy/blob/v0.16.0/LICENSE,False,,
+yarl,1.23.0,True,Apache-2.0,Apache-2.0,False,,https://github.com/aio-libs/yarl/blob/v1.23.0/LICENSE,https://github.com/aio-libs/yarl/blob/v1.23.0/LICENSE,False,,
