@@ -1,14 +1,14 @@
 """
 verify_and_update_sbom.py
 
-Верификация и автообновление ЛИЦЕНЗИЙ в SBOM.
+Верификация и автообновление лицензий в SBOM.
 
-ВАЖНО: version / purl / cpe не меняются - версии зафиксированы в проекте и
+version / purl / cpe не меняются - версии зафиксированы в проекте и
 поднимаются централизованно. Состав библиотек и их версии сохраняются как есть.
-Для каждой (зафиксированной) версии скрипт:
+Для каждой версии скрипт:
   - сверяет лицензию с PyPI и исправляет только при настоящем расхождении
     (одинаковая семья лицензий и нераспознанные значения не затираются);
-  - проверяет ссылку license_link и чинит битую под ту же версию.
+  - проверяет ссылку license_link и чинит битую под ту же версию
 
 Запуск
     python verify_and_update_sbom.py            # проверка + отчеты (dry-run)
@@ -40,8 +40,6 @@ HEADERS = {"User-Agent": "SBOM-License-Verifier/3.0 (+python-requests)"}
 # SPDX-идентификаторы, на которые ссылаемся
 SPDX_PROPRIETARY = "Proprietary"
 
-# Результат проверки URL - три честных состояния, а не bool
-# Важно отличать «битая ссылка» от «не смогли проверить»: иначе на сетевой
 # ошибке/таймауте рабочая ссылка будет ошибочно объявлена битой
 URL_OK = "ok"
 URL_BROKEN = "broken"
@@ -93,7 +91,7 @@ _SPDX_ALIASES: Dict[str, str] = {
     "zlib": "Zlib", "boost": "BSL-1.0", "boost software license 1 0": "BSL-1.0", "bsl-1.0": "BSL-1.0",
 }
 
-# Маркеры проприетарной/закрытой лицензии (подстрока в нижнем регистре)
+# Маркеры проприетарной/закрытой лицензии
 _PROPRIETARY_MARKERS = ("proprietary", "commercial", "all rights reserved")
 
 
@@ -102,10 +100,10 @@ def _slug(text: str) -> str:
 
 
 def _regex_spdx(slug: str) -> Optional[str]:
-    """Обобщённое распознавание лицензии по структуре строки.
+    """Обобщенное распознавание лицензии по структуре строки.
 
     Дополняет точный словарь _SPDX_ALIASES: ловит варианты написания, которых
-    в словаре нет (его нельзя расширить на всё, что встретится). Возвращает один
+    в словаре нет (его нельзя расширить на все, что встретится). Возвращает один
     SPDX-идентификатор или None. slug - уже нормализованная строка из _slug().
     """
     s = slug
@@ -209,8 +207,8 @@ def http_get(url: str, allow_redirects: bool = True):
 def check_url(url: str) -> str:
     """Честная проверка ссылки: URL_OK / URL_BROKEN / URL_ERROR.
 
-    URL_ERROR (таймаут, сетевой сбой, нет requests, 5xx) принципиально отличается
-    от URL_BROKEN (404/410): «не смог проверить» - это НЕ «ссылка битая».
+    URL_ERROR (таймаут, сетевой сбой, нет requests, 5xx) отличается
+    от URL_BROKEN (404/410)
     """
     r = http_get(url)
     if r is None:
@@ -305,7 +303,7 @@ def process_component(comp: Dict[str, Any]) -> Tuple[Dict[str, Any], Dict[str, A
     has_link = old_link.startswith(("http://", "https://"))
     status = check_url(old_link) if has_link else URL_BROKEN
     if status == URL_OK:
-        pass  # рабочая - не трогаем
+        pass  # рабочая
     elif status == URL_ERROR:
         # не смогли проверить (таймаут/сеть/5xx) - не засчитывется как битая ссылка
         notes.append("link-unchecked")
@@ -383,7 +381,7 @@ def main() -> None:
     ap.add_argument("--report", default="license_report.csv")
     ap.add_argument("--problems", default="license_problems.csv")
     ap.add_argument("--apply", action="store_true",
-                    help="перезаписать обновлённый SBOM (иначе только отчеты)")
+                    help="перезаписать обновленный SBOM (иначе только отчеты)")
     ap.add_argument("--inplace", action="store_true",
                     help="писать результат поверх --input (вместе с --apply)")
     ap.add_argument("--workers", type=int, default=MAX_WORKERS)

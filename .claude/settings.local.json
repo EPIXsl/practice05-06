@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python -c \"import ast; ast.parse\\(open\\('verify_and_update_sbom.py',encoding='utf-8'\\).read\\(\\)\\); print\\('syntax OK'\\)\")",
-      "Bash(python verify_and_update_sbom.py --offline)",
-      "Bash(python verify_and_update_sbom.py --apply)"
-    ]
-  }
-}
